@@ -1,0 +1,12 @@
+path: D:\python\程序\mnist-YOLO\小麦病变识别模型\wheat_7class_v5
+train: train/images
+val: val/images
+nc: 7
+names:
+  0: Brown_Rust
+  1: Yellow_Rust
+  2: Black_Rust
+  3: Septoria
+  4: Powdery_Mildew
+  5: Fusarium_Head_Blight
+  6: Healthy_Wheat
